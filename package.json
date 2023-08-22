@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/shyim/shopware-admin-api-node.git"
+    "url": "git+https://github.com/firebearstudio/shopware-admin-api-node.git"
   },
   "keywords": [
     "Shopware",
@@ -17,9 +17,9 @@
   "author": "Shyim",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/shyim/shopware-admin-api-node/issues"
+    "url": "https://github.com/firebearstudio/shopware-admin-api-node/issues"
   },
-  "homepage": "https://github.com/shyim/shopware-admin-api-node#readme",
+  "homepage": "https://github.com/firebearstudio/shopware-admin-api-node#readme",
   "dependencies": {
     "axios": "^0.21.1",
     "lodash": "^4.17.15",
