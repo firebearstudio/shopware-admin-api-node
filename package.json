@@ -1,5 +1,5 @@
 {
-  "name": "shopware-admin-api",
+  "name": "@firebearstudio/shopware-admin-api",
   "version": "1.0.3",
   "description": "Shopware API",
   "main": "src/index.js",
